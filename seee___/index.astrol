@@ -1,7 +1,0 @@
----
-import Alert from "../src/index"
----
-
-<Alert message="Hello, world!" type="success"/>
-
-
