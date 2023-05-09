@@ -1,0 +1,25 @@
+{
+  "name": "astro-alert",
+  "version": "1.0.0",
+  "description": "An Alert Package for Astro",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "astro",
+    "alert",
+    "toast"
+  ],
+  "author": "Ayooluwa Aduwo",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@astrojs/lit": "^2.0.1",
+    "@webcomponents/template-shadowroot": "^0.2.1",
+    "astro": "^2.4.3",
+    "lit": "^2.7.4"
+  }
+}
